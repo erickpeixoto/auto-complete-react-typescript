@@ -11,8 +11,8 @@ Before running the project, you must have the following installed on your machin
  - npm (version 6 or higher)
 
  ## Setup
- - Clone the repository: `git clone <repository-url>`
- - Navigate to the project directory: `cd <project-directory>`
+ - Clone the repository: `git clone git@github.com:erickpeixoto/auto-complete-react-typescript.git`
+ - Navigate to the project directory: `cd auto-complete-react-typescript`
 
  
 
